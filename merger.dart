@@ -120,7 +120,7 @@ class _MyAppState extends State<MyApp> {
       
       child:Text(
         
-        'Tutor Joes',
+        'Text Promoter',
         
         style:TextStyle(
           
